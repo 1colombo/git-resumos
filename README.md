@@ -1,4 +1,4 @@
-# Resumos Git/GitHub
+# **Resumos Git/GitHub**
 
 Repositório para armazenar recursos sobre Git e GitHub.
 
