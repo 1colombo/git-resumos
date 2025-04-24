@@ -1,8 +1,8 @@
 # Resumos Git/GitHub
 
-Repositório para armazenar recursos sobre Git e GitHub.
+## Repositório utilizado para resumir conceitos de Git e GitHub aprendidos no curso da DIO!
 
-## Resumos:
+### Resumos:
   
   | Comandos | Função |
   |:---------|----------:|
@@ -15,7 +15,7 @@ Repositório para armazenar recursos sobre Git e GitHub.
   | `git log` | Exibe o histórico de commits |
   | `git restore` | Descarta todas as alterações que você fez localmente |
   | `git reset --soft "hash"` | Coloca os arquivos do ultimo commit em Preparação |
-  | `git reset "hash"` -| Coloca os arquivos do ultimo commit em Untracked |
+  | `git reset "hash"` -| Coloca os arquivos do ultimo commit em Modificados |
   | `git reset --hard "hash"` | Exclui todos os arquivos e o commit |
   | `rm -rf` | Remove recursivamente o diretório |
   | `git push` | Envia as alterações do repositório local para o remoto |
@@ -35,4 +35,3 @@ Repositório para armazenar recursos sobre Git e GitHub.
   | `git stash pop` | Desarquiva a modificação e exclui a modificação mais recente da pilha |
   | `git stash apply` | Mantem a modificação na lista para uso posterior |
   
-
