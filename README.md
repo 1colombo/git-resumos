@@ -8,3 +8,4 @@ Repositório para armazenar recursos sobre Git e GitHub.
   git clone <URL> -> Cópia local de um repositório
   git add -> Prepara as mudanças para serem salvas
   git commit -m "mensagem" -> Salva as mudanças no histórico
+  git log -> Exibe o histórico de commits
