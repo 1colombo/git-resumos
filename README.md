@@ -16,4 +16,5 @@ Repositório para armazenar recursos sobre Git e GitHub.
   git reset --hard <hash> -> Exclui todos os arquivos e o commit
   rm -rf -> Remove recursivamente o diretório
   git push -> Envia as alterações do repositório local para o remoto
-  
+  git pull -> Puxa as alterações do repositório remoto e mescla com o reporitório local
+
