@@ -2,7 +2,7 @@
 
 ## Repositório utilizado para resumir conceitos de Git e GitHub aprendidos no curso da DIO!
 
-### Resumos:
+### Resumos dos comandos:
   
   | Comandos | Função |
   |:---------|----------:|
@@ -34,4 +34,13 @@
   | `git stash list` | Mostra as modificações arquivadas |
   | `git stash pop` | Desarquiva a modificação e exclui a modificação mais recente da pilha |
   | `git stash apply` | Mantem a modificação na lista para uso posterior |
+
+  ### Convensão de Commits
+  | Tipo de Commit | Descrição |
+  | `feat ` | Adiciona uma nova funcionalidade ao projeto |  
+  | `fix ` | Corrige um bug ou problema no projeto |
+  | `docs ` | Altera a documentação do projeto. Ex: README, comentários no código  |
+  | `style ` | Realiza mudanças na aparência |
+  | `refactor ` | Realiza mudanças no código que nao alteram a funcionalidade |
+  | `test ` | Adiciona ou modifica testes no projeto |
   
